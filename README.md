@@ -49,16 +49,16 @@ print(f"{ans:.2f}")
 
 # Output :
 ### 1-Norm of a Matrix
-<img width="908" height="525" alt="image" src="https://github.com/user-attachments/assets/e8089e1c-a63a-41a0-b42d-f9290b1ddc86" />
-<img width="627" height="211" alt="image" src="https://github.com/user-attachments/assets/d3fa2ef8-7a2d-4f81-bd73-9c19bf158e9d" />
+<img width="908" height="525" alt="Screenshot 2026-11-11 113622" src="https://github.com/user-attachments/assets/317ffaa2-d277-40dd-9fe2-71833cc0d93e" />
+<img width="627" height="211" alt="Screenshot 2026-11-11 113642" src="https://github.com/user-attachments/assets/6210a864-5b80-4f09-af78-d0474628bde7" />
 
 ### 2-Norm of a Matrix
-<img width="877" height="682" alt="image" src="https://github.com/user-attachments/assets/b7b79967-fa76-4126-bce1-58e35275c84e" />
-<img width="530" height="257" alt="image" src="https://github.com/user-attachments/assets/7dce37f0-586b-46e4-a25d-522235c0a1c4" />
+<img width="877" height="682" alt="Screenshot 2026-11-11 113528" src="https://github.com/user-attachments/assets/72d61a0a-5426-45d4-a2ec-76c0ce3d3fdf" />
+<img width="530" height="257" alt="Screenshot 2026-11-11 113544" src="https://github.com/user-attachments/assets/08dc3f0e-5fed-424f-917f-27bf685b96e1" />
 
 ### Infinity Norm of a Matrix
-<img width="1017" height="477" alt="image" src="https://github.com/user-attachments/assets/55a23d78-1201-42da-9222-7d41c5ca894b" />
-<img width="917" height="207" alt="image" src="https://github.com/user-attachments/assets/99a3fc36-a578-4a80-98c3-55954d503d5c" />
+<img width="1017" height="477" alt="Screenshot 2026-11-11 113421" src="https://github.com/user-attachments/assets/6b3fe5b0-9703-420f-a094-87e4f9811c86" />
+<img width="917" height="207" alt="Screenshot 2026-11-11 113454" src="https://github.com/user-attachments/assets/99c0ff6a-2121-47b1-b732-ac533b14795d" />
 
 # Result :
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
